@@ -1,8 +1,9 @@
 /*
-/主要程序文件
-/BUG：在风扇开启的情况下由于巨大电磁干扰，读取的各种数据会有随机跳动现象
-/Version: 1.0 Releasse      TKWTL 2025/02/02
-*/
+ *主要程序文件
+ *BUG：在风扇开启的情况下由于巨大电磁干扰，读取的各种数据会有随机跳动现象
+ *硬件信息：https://oshwhub.com/jeremy_li/shou-chi-pu-li-shan
+ *Version: 1.0 Releasse      TKWTL 2025/02/02
+ */
 #include "main.h"
 #include "menu.h"
 
